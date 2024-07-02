@@ -1,4 +1,4 @@
-This page is home for my code examples. Consider this my portfolio of code examples.
+This page is home for my code examples. Consider this my statistical coding portfolio.
 
 # Projects
 
